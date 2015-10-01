@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ImageSaver</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="to_saved_image">to_saved_image</string>
+    <string name="Image_query_tag">Image_search</string>
+    <string name="Saved_image_tag">Saved_image</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="save_image">Save</string>
+    <string name="search_image">search_image</string>
+    <string name="delete_image">Delete</string>
+</resources>
